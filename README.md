@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, thanks for coming!:grinning:
+I am an undergraudate student, studying **Computer Science**.:computer:<br>
+I'm currently dealing with *__WEB__* and *__ANDROID APP__*.<br>
+For the purpose for developing *__WEB__*, I use *Spring Framework*!<br>
+I am now studying *__JavaScript__* and *__JQuery__* for an uncoming website maintenance.<br>
+To be honest, I am not such an outstanding developer.:flushed:<br>
+But I'm *constantly* making an effort to improve myself as a developer.<br>
+___
 
-<!--
-**CRISPYTYPER/CRISPYTYPER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PS. Which do you recommend for developing *cross-platform* apps, **FLUTTER** or **REACT NATIVE**:question:<br>
+___
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+#### Welcome once again :)
+
+
+
+
+
+
+
+
