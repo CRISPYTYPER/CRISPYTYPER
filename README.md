@@ -11,3 +11,5 @@ I always strive to learn and grow, consistently pushing myself beyond my comfort
 I'm excited about opportunities to contribute my skills, collaborate effectively within a team, and keep growing together!  
 
 #### Welcome, and thank you for stopping by! 🚀
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jack3409)](https://solved.ac/jack3409/)
