@@ -43,6 +43,3 @@ Excited to contribute meaningful backends, collaborate effectively, and keep gro
 
 
 #### Welcome, and thank you for stopping by! 🚀
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/crispytyper)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jack3409)](https://solved.ac/jack3409/)
