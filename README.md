@@ -1,14 +1,46 @@
-### Hi, thanks for visiting! 😊
+# Hi there 👋
 
-I recently graduated with a degree in **Computer Science**. 💻  
+I’m **Jinsoo Park**, a backend & data–engineering–minded developer.  
+Currently working at **Shinhan Securities — Blockchain Division (Tech Team)**.  
 
-I've dedicated myself to expanding my skills and knowledge, especially in **Java** and **Spring**.  
+---
 
-Now, I'm confident in my development abilities, having completed various projects and diligently engaged in coursework and lectures.  
+## 🔧 Tech Focus
+- **Backend**: Java/Spring, Python/FastAPI  
+- **Data**: SQL, real-time pipelines, WebSocket/messaging  
+- **Core Skills**: backend development, API integration, domain modeling  
 
-I always strive to learn and grow, consistently pushing myself beyond my comfort zone to become a better developer and collaborator.  
+---
 
-I'm excited about opportunities to contribute my skills, collaborate effectively within a team, and keep growing together!  
+## 💼 Experience
+**Shinhan Investment Corp — Blockchain Division (2025.08 ~ present)**  
+- Backend system development with FastAPI  
+- Real-time crypto data processing & analysis in Python  
+- Database operations with SQL  
+- Partner ↔ in-house API integration and verification  
+- Service planning & technical feasibility reviews  
+- Research & prototyping (MVP) for digital asset–related business use cases  
+
+---
+
+## 💡 What I Care About
+- Solid backends → domain modeling, transactional consistency, recovery  
+- Real-time pipelines → low-latency ingestion, reliability, idempotency  
+- Engineering culture → docs/tests, clarity, automation, small iterative releases  
+- Business perspective → analyzing global crypto business models, exploring new ideas, and considering how technology creates real market value 
+
+---
+
+## 🛠 How I Work
+- Learn fast, reason from data, ship iteratively  
+- Write docs/READMEs/tests for smooth collaboration  
+- Prefer *“build small, validate often, improve continuously”*  
+
+---
+
+## 🚀 Looking Ahead
+Excited to contribute meaningful backends, collaborate effectively, and keep growing together.  
+
 
 #### Welcome, and thank you for stopping by! 🚀
 
